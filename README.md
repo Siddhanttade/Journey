@@ -1,2 +1,3 @@
 # Journey
-A new journey of learning begins with my first project
+A new journey of learning begins with my first repository
+Author-Siddhant Tade
